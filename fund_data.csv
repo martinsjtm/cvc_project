@@ -1,0 +1,22 @@
+fund_name,fund_size,transaction_type,transaction_index,transaction_date,transaction_amount,sector,country,region
+Palisade Ridge Capital,970000000.0,Commitment,1.0,2020-12-31,9700000.0,Venture Capital,United States,North America
+Palisade Ridge Capital,970000000.0,Valuation,1.0,2020-12-31,8000000.0,Venture Capital,United States,North America
+Palisade Ridge Capital,970000000.0,Valuation,2.0,2020-12-31,8500000.0,Venture Capital,United States,North America
+Palisade Ridge Capital,970000000.0,Valuation,1.0,2021-03-31,9000000.0,Venture Capital,United States,North America
+Palisade Ridge Capital,970000000.0,Valuation,1.000021,2021-06-30,9800000.0,Venture Capital,United States,North America
+Palisade Ridge Capital,970000000.0,Valuation,1.0,2021-06-30,9500000.0,Venture Capital,United States,North America
+Palisade Ridge Capital,970000000.0,Call,1.0,2021-07-15,1000000.0,Venture Capital,United States,North America
+Palisade Ridge Capital,970000000.0,Valuation,1.0,2021-09-30,11000000.0,Venture Capital,United States,North America
+Palisade Ridge Capital,970000000.0,Valuation,1.0,2021-12-31,12000000.0,Venture Capital,United States,North America
+Ironbrook Capital Partners,50000000.0,Commitment,1.0,2020-12-31,50000000.0,Private Equity,Sweden,Europe
+Ironbrook Capital Partners,50000000.0,Valuation,1.0,2020-12-31,50000000.0,Private Equity,Sweden,Europe
+Ironbrook Capital Partners,50000000.0,Valuation,1.0,2021-06-30,70000000.0,Private Equity,Sweden,Europe
+Ironbrook Capital Partners,50000000.0,Valuation,1.0,2021-12-31,71000000.0,Private Equity,Sweden,Europe
+Summitvale Equity Group,250000000.0,Commitment,1.0,2020-12-31,12500000.0,Private Equity,USA,North America
+Summitvale Equity Group,250000000.0,Valuation,1.0,2020-12-31,10000000.0,Private Equity,USA,North America
+Summitvale Equity Group,250000000.0,Valuation,1.0,2021-03-31,11000000.0,Private Equity,USA,North America
+Summitvale Equity Group,250000000.0,Valuation,1.0,2021-06-30,12000000.0,Private Equity,USA,North America
+Summitvale Equity Group,250000000.0,Distribution,1.0,2021-07-01,-1000000.0,Private Equity,USA,North America
+Summitvale Equity Group,250000000.0,Valuation,1.0,2021-09-30,12000000.0,Private Equity,USA,North America
+Summitvale Equity Group,250000000.0,Valuation,1.0,2021-12-31,12500000.0,Private Equity,USA,North America
+Summitvale Equity Group,250000000.0,Valuation,7.0,2021-12-31,13000000.0,Private Equity,USA,North America

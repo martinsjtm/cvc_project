@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: raw
+    schema: main
+    database: database
+    tables:
+      - name: fund_data
+      - name: company_data
+      - name: expected_data

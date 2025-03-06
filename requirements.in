@@ -1,0 +1,8 @@
+duckdb
+dbt-core
+dbt-duckdb
+streamlit
+plotly
+altair
+pandas
+watchdog

@@ -1,0 +1,62 @@
+fund_name,company_id,company_name,transaction_type,transaction_index,transaction_date,transaction_amount,sector,country,region
+Palisade Ridge Capital,4925.0,Brightridge Technologies,Valuation,1.0,2020-12-31,150000000.0,Information Technology,United Kingdom,Europe
+Palisade Ridge Capital,2563.0,Evermark Industries,Valuation,1.0,2020-12-31,50000000.0,Consumer Discretionary,France,Europe
+Palisade Ridge Capital,916.0,Zephiron Biopharma,Valuation,1.0,2020-12-31,200000000.0,Healthcare,France,Europe
+Palisade Ridge Capital,716.0,Nexora Energy Solutions,Valuation,1.0,2020-12-31,70000000.0,Energy,United States,North America
+Palisade Ridge Capital,435.0,Triton Forge Manufacturing,Valuation,1.0,2020-12-31,60000000.0,Industrials,,
+Palisade Ridge Capital,1198.0,Velcoris Data Systems,Valuation,1.0,2020-12-31,300000000.0,Information Technology,United States,North America
+Palisade Ridge Capital,1.0,Other Assets,Valuation,1.0,2020-12-31,20000000.0,N/A,N/A,N/A
+Palisade Ridge Capital,4925.0,Brightridge Technologies,Valuation,1.0,2021-03-31,155000000.0,Information Technology,United Kingdom,Europe
+Palisade Ridge Capital,2563.0,Evermark Industries,Valuation,1.0,2021-03-31,60000000.0,Consumer Discretionary,France,Europe
+Palisade Ridge Capital,916.0,Zephiron Biopharma,Valuation,1.0,2021-03-31,200000000.0,Healthcare,France,Europe
+Palisade Ridge Capital,716.0,Nexora Energy Solutions,Valuation,1.0,2021-03-31,80000000.0,Energy,United States,North America
+Palisade Ridge Capital,435.0,Triton Forge Manufacturing,Valuation,1.0,2021-03-31,65000000.0,Industrials,,
+Palisade Ridge Capital,1198.0,Velcoris Data Systems,Valuation,1.0,2021-03-31,320000000.0,Information Technology,United States,North America
+Palisade Ridge Capital,1.0,Other Assets,Valuation,1.0,2021-03-31,20000000.0,N/A,N/A,N/A
+Palisade Ridge Capital,4925.0,Brightridge Technologies,Valuation,1.0,2021-06-30,170000000.0,Information Technology,United Kingdom,Europe
+Palisade Ridge Capital,2563.0,Evermark Industries,Valuation,1.0,2021-06-30,70000000.0,Consumer Discretionary,France,Europe
+Palisade Ridge Capital,916.0,Zephiron Biopharma,Valuation,1.0,2021-06-30,210000000.0,Healthcare,France,Europe
+Palisade Ridge Capital,716.0,Nexora Energy Solutions,Valuation,1.0,2021-06-30,110000000.0,Energy,United States,North America
+Palisade Ridge Capital,435.0,Triton Forge Manufacturing,Valuation,1.0,2021-06-30,65000000.0,Industrials,,
+Palisade Ridge Capital,1198.0,Velcoris Data Systems,Valuation,1.0,2021-06-30,320000000.0,Information Technology,United States,North America
+Palisade Ridge Capital,1.0,Other Assets,Valuation,1.0,2021-06-30,35000000.0,N/A,N/A,N/A
+Palisade Ridge Capital,4925.0,Brightridge Technologies,Valuation,1.0,2021-09-30,175000000.0,Information Technology,United Kingdom,Europe
+Palisade Ridge Capital,2563.0,Evermark Industries,Valuation,1.0,2021-09-30,90000000.0,Consumer Discretionary,France,Europe
+Palisade Ridge Capital,916.0,Zephiron Biopharma,Valuation,1.0,2021-09-30,220000000.0,Healthcare,France,Europe
+Palisade Ridge Capital,716.0,Nexora Energy Solutions,Valuation,1.0,2021-09-30,110000000.0,Energy,United States,North America
+Palisade Ridge Capital,435.0,Triton Forge Manufacturing,Valuation,1.0,2021-09-30,80000000.0,Industrials,,
+Palisade Ridge Capital,1198.0,Velcoris Data Systems,Valuation,1.0,2021-09-30,320000000.0,Information Technology,United States,North America
+Palisade Ridge Capital,1.0,Other Assets,Valuation,1.0,2021-09-30,105000000.0,N/A,N/A,N/A
+Palisade Ridge Capital,4925.0,Brightridge Technologies,Valuation,1.0,2021-12-31,175000000.0,Information Technology,United Kingdom,Europe
+Palisade Ridge Capital,2563.0,Evermark Industries,Valuation,1.0,2021-12-31,90000000.0,Consumer Discretionary,France,Europe
+Palisade Ridge Capital,916.0,Zephiron Biopharma,Valuation,1.0,2021-12-31,220000000.0,Healthcare,France,Europe
+Palisade Ridge Capital,716.0,Nexora Energy Solutions,Valuation,1.0,2021-12-31,110000000.0,Energy,United States,North America
+Palisade Ridge Capital,435.0,Triton Forge Manufacturing,Valuation,1.0,2021-12-31,120000000.0,Industrials,,
+Palisade Ridge Capital,1198.0,Velcoris Data Systems,Valuation,1.0,2021-12-31,380000000.0,Information Technology,United States,North America
+Palisade Ridge Capital,1.0,Other Assets,Valuation,1.0,2021-12-31,105000000.0,N/A,N/A,N/A
+Ironbrook Capital Partners,2915.0,Solstice Foods,Valuation,1.0,2020-12-31,45000000.0,Consumer Staples,United States,North America
+Ironbrook Capital Partners,1.0,Other Assets,Valuation,1.0,2020-12-31,5000000.0,N/A,N/A,N/A
+Ironbrook Capital Partners,2915.0,Solstice Foods,Valuation,1.0,2020-06-30,66000000.0,Consumer Staples,United States,North America
+Ironbrook Capital Partners,1.0,Other Assets,Valuation,1.0,2020-06-30,4000000.0,N/A,N/A,N/A
+Ironbrook Capital Partners,2915.0,Solstice Foods,Valuation,1.0,2021-12-31,67000000.0,Consumer Staples,United States,North America
+Ironbrook Capital Partners,1.0,Other Assets,Valuation,1.0,2021-12-31,4000000.0,N/A,N/A,N/A
+Summitvale Equity Group,916.0,Zephiron Biopharma,Valuation,1.0,2020-12-31,155000000.0,Healthcare,France,Europe
+Summitvale Equity Group,4584.0,Stellarion Robotics,Valuation,1.0,2020-12-31,17000000.0,Information Technology,United States,North America
+Summitvale Equity Group,1234.0,Axentis Financial,Valuation,1.0,2020-12-31,15000000.0,Finance,Luxembourg,Europe
+Summitvale Equity Group,1.0,Other Assets,Valuation,1.0,2020-12-31,5000000.0,N/A,N/A,N/A
+Summitvale Equity Group,916.0,Zephiron Biopharma,Valuation,1.0,2021-03-31,180000000.0,Healthcare,France,Europe
+Summitvale Equity Group,4584.0,Stellarion Robotics,Valuation,1.0,2021-03-31,20000000.0,Information Technology,United States,North America
+Summitvale Equity Group,1234.0,Axentis Financial,Valuation,1.0,2021-03-31,19000000.0,Finance,Luxembourg,Europe
+Summitvale Equity Group,1.0,Other Assets,Valuation,1.0,2021-03-31,5000000.0,N/A,N/A,N/A
+Summitvale Equity Group,916.0,Zephiron Biopharma,Valuation,1.0,2021-06-30,185000000.0,Healthcare,France,Europe
+Summitvale Equity Group,4584.0,Stellarion Robotics,Valuation,1.0,2021-06-30,30000000.0,Information Technology,United States,North America
+Summitvale Equity Group,1234.0,Axentis Financial,Valuation,1.0,2021-06-30,20000000.0,Finance,Luxembourg,Europe
+Summitvale Equity Group,1.0,Other Assets,Valuation,1.0,2021-06-30,5000000.0,N/A,N/A,N/A
+Summitvale Equity Group,916.0,Zephiron Biopharma,Valuation,1.0,2021-09-30,190000000.0,Healthcare,France,Europe
+Summitvale Equity Group,4584.0,Stellarion Robotics,Valuation,1.0,2021-09-30,25000000.0,Information Technology,United States,North America
+Summitvale Equity Group,1234.0,Axentis Financial,Valuation,1.0,2021-09-30,20000000.0,Finance,Luxembourg,Europe
+Summitvale Equity Group,1.0,Other Assets,Valuation,1.0,2021-09-30,5000000.0,N/A,N/A,N/A
+Summitvale Equity Group,916.0,Zephiron Biopharma,Valuation,1.0,2021-12-31,200000000.0,Healthcare,France,Europe
+Summitvale Equity Group,4584.0,Stellarion Robotics,Valuation,1.0,2021-12-31,30000000.0,Information Technology,United States,North America
+Summitvale Equity Group,1234.0,Axentis Financial,Valuation,1.0,2021-12-31,25000000.0,Finance,Luxembourg,Europe
+Summitvale Equity Group,1.0,Other Assets,Valuation,1.0,2021-12-31,5000000.0,N/A,N/A,N/A
