@@ -142,4 +142,9 @@ st.dataframe(
 )
 
 # Hide the footer
-st.markdown(""" <style> #MainMenu {visibility: hidden;} footer {visibility: hidden;} </style> """, unsafe_allow_html=True)
+hide_streamlit_styles = """
+<style>
+footer {visibility: hidden;}
+</style>
+"""
+st.markdown(hide_streamlit_styles, unsafe_allow_html=True)
