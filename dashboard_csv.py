@@ -140,3 +140,6 @@ st.dataframe(
     }),
     use_container_width=True
 )
+
+# Hide the footer
+st.markdown(""" <style> #MainMenu {visibility: hidden;} footer {visibility: hidden;} </style> """, unsafe_allow_html=True)
