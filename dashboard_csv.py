@@ -141,10 +141,10 @@ st.dataframe(
     use_container_width=True
 )
 
-# Hide the footer
+# Hide the footer and container
 hide_streamlit_styles = """
 <style>
-footer {visibility: hidden;}
+._container_1upux_1 {visibility: hidden;}
 </style>
 """
 st.markdown(hide_streamlit_styles, unsafe_allow_html=True)
