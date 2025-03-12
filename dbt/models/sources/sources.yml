@@ -3,8 +3,52 @@ version: 2
 sources:
   - name: raw
     schema: main
-    database: database
     tables:
       - name: fund_data
+        columns:
+          - name: fund_name
+            tests: [not_null]
+          - name: fund_size
+            tests: 
+              - not_null
+          - name: transaction_type
+            tests: 
+              - not_null
+          - name: transaction_index
+            tests: [not_null]
+          - name: transaction_date
+            tests: 
+              - not_null
+              - valid_transaction_date  # Custom test
+          - name: transaction_amount
+            tests: 
+              - not_null
+        
+
       - name: company_data
-      - name: expected_data
+        tests:
+          - dbt_utils.unique_combination_of_columns:
+              combination_of_columns:
+                - fund_name
+                - company_id
+                - transaction_date
+        columns:
+          - name: company_id
+            tests: 
+              - not_null
+          - name: company_name
+            tests: [not_null]
+          - name: fund_name
+            tests: 
+              - not_null
+          - name: transaction_date
+            tests: 
+              - not_null
+              - valid_transaction_date  # Custom test
+          - name: transaction_amount
+            tests: [not_null]
+
+      - name: expected_output     
+        
+
+
