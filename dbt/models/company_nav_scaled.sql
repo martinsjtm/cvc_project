@@ -32,7 +32,6 @@ company_nav as (
     from {{ source('raw', 'company_data') }} cd
     join scaled_ownership so on so.fund_name = cd.fund_name
                                 and so.transaction_date = cd.transaction_date
-    where cd.company_name != 'Other Assets'
     group by 1, 2, 3, 4
 )
 

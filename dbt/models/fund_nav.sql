@@ -39,7 +39,7 @@ nav_after_calls_and_distributions as (
     left join valuations v on v.fund_name = cd.fund_name 
     -- Allow same-day transactions by using <= instead of <
     where v.transaction_date <= cd.call_or_distribution_date
-    -- we are only interested in applying calls and distributions to the latest valuation, up to or on the call/distribution date
+    -- we are only interested in applying calls and distributions to the latest valuation
     qualify row_number() over (partition by cd.fund_name order by v.transaction_date desc, v.transaction_index desc) = 1
 ),
 
